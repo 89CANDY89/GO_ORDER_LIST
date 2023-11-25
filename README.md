@@ -17,7 +17,7 @@ If you don't know anything about Go language, then do checkout the [resoruces se
 # Overview
 Want to order food!? Well, you have come to the right place(not exactly :P).
 
-This is a program which will help you order food in a restaurant named "Jaipur Bhojanalya".
+Order food in a restaurant named "Jaipur Bhojanalya".
 
 You can order any item that is there in the menu, and as many times as you want. This program also lets you modify your order by allowing you to update quantity of an item, add an item in the order or delete an item from the order; before generating the final bill.
 
